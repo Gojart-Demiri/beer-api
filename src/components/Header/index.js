@@ -17,7 +17,7 @@ function Header() {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/favorites">Favorites</Link>
+            <Link to="/favorites">Favoritess</Link>
           </li>
         </ul>
       </div>
